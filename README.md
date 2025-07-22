@@ -1,1 +1,1 @@
-"# lending-amincode" 
+Лендинг АИС Сокола https://aissokol.ru/
