@@ -1,0 +1,425 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Платформа ML «Научные модули» от АИС Сокол: от очистки и нормализации данных до обучения, контейнеризации моделей, Kubernetes‑развёртывания, мониторинга и управления экспериментами.">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <!-- fav icon -->
+  <link rel="icon" href="../../assets/images/fav-icon/fav-icon.png">
+
+  <!-- bootstarp -->
+  <link rel="stylesheet" href="../../css/vendors/bootstrap.min.css">
+
+  <!-- animate.css file -->
+  <link rel="stylesheet" href="../../css/vendors/animate.css">
+
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="../../css/vendors/jquery.fancybox.min.css">
+
+  <!-- flaticon -->
+  <link rel="stylesheet" href="../../css/vendors/flaticon/flaticon.css">
+
+  <!-- fontAwesome -->
+  <link rel="stylesheet" href="../../css/vendors/all.min.css">
+
+  <!-- bootstrap icons -->
+  <link rel="stylesheet" href="../../css/vendors/bootstrap-icons-1.9.1/bootstrap-icons.css">
+
+  <!-- Swiper -->
+  <link rel="stylesheet" href="../../css/vendors/swiper-bundle.min.css">
+
+  <!-- Font Family -->
+  <link rel="stylesheet" href="../../../../css2?family=Jost:wght@400;500;600;700;800&amp;display=swap">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+  <!-- main-LTR -->
+  <link rel="stylesheet" href="../../css/main-LTR.css">
+  <link rel="stylesheet" href="../../css/mobile.css">
+  <title>Платформа ML «Научные модули» от Аис Сокол </title>
+
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+      m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+      m[i].l = 1 * new Date();
+      for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+      k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(103403661, "init", {
+      clickmap: true,
+      trackLinks: true,
+      accurateTrackBounce: true,
+      webvisor: true
+    });
+  </script>
+  <noscript>
+    <div><img src="https://mc.yandex.ru/watch/103403661" style="position:absolute; left:-9999px;" alt="" /></div>
+  </noscript>
+  <!-- /Yandex.Metrika counter -->
+
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P38K3N4P');</script>
+  <!-- End Google Tag Manager -->
+</head>
+
+<body class=" dark-theme ">
+  <!--Start Page Header-->
+  <header class=" page-header   content-always-light header-basic" id="page-header">
+    <div class="header-search-box">
+      <div class="close-search"></div>
+      <form class="nav-search search-form" role="search" method="get" action="#">
+        <div class="search-wrapper">
+          <label class="search-lbl">Поиск</label>
+          <input class="search-input" type="search" placeholder="Поиск..." name="searchInput" autofocus="autofocus">
+          <button class="search-btn" type="submit"><i class="bi bi-search icon"></i></button>
+        </div>
+      </form>
+    </div>
+    <div class="container">
+      <nav class="menu-navbar">
+        <div class="header-logo"><a class="logo-link" href="#"><img class="logo-img light-logo" loading="lazy"
+              src="assets/images/logo/logo-light.png" alt="logo"><img class="logo-img  dark-logo" loading="lazy"
+              src="assets/images/logo/logo-dark.png" alt="logo"></a></div>
+        <div class="links menu-wrapper">
+          <ul class="list-js links-list text-center">
+            <li class="menu-item has-sub-menu"><a class="menu-link" href="../home/home-5.html">Главная </a></li>
+            <li class="menu-item has-sub-menu"><a class="menu-link"
+                href="../service/service-single-argoTech.html">Заказная разработка </a></li>
+            <li class="menu-item has-sub-menu"><a class="menu-link" href="../branch/service-single-finance.html">Отрасли
+              </a></li>
+            <li class="menu-item has-sub-menu"><a class="menu-link" href="../solutions/service-single-1.html">Готовые
+                решения</a></li>
+            <li class="menu-item has-sub-menu"><a class="menu-link  " href="../aboutUs/about-us.html">О компании </a>
+            </li>
+            <li class="menu-item has-sub-menu"><a class="menu-link  " href="../portfolio/portfolio-grid.html">Портфолио
+              </a></li>
+            <li class="menu-item has-sub-menu"><a class="menu-link  " href="../blog/blog-home-1-col.html">Новости </a>
+            </li>
+            <li class="menu-item has-sub-menu"><a class="menu-link  " href="../contactUs/contact-us.html">Контакты
+              </a></li>
+          </ul>
+        </div>
+        <div class="controls-box">
+          <!--Menu Toggler button-->
+          <div class="control  menu-toggler"><span></span><span></span><span></span></div>
+          <!--search Icon button-->
+          <!--Dark/Light mode button-->
+          <div class="mode-switcher ">
+            <div class="switch-inner go-light " title="Switch To Light Mode "><i class="bi bi-sun icon "></i></div>
+            <div class="switch-inner go-dark" title="Switch To Dark Mode "><i class="bi bi-moon icon "></i></div>
+          </div>
+          <!--mini shoping cart-->
+        </div>
+      </nav>
+
+    </div>
+  </header>
+
+  <div class="service-single ">
+    <div class="container">
+      <div class="row">
+        <!--Start service content-->
+        <div class="col-12 col-xl-8  ">
+          <div class="service-content-area">
+            <div class="featured-img-area part"><img class="feat-img img-fluid"
+                src="../../assets/images/services/71.png" style="height: 450px; width: 900px" alt="featured image">
+            </div>
+            <div class="service-content">
+              <div class="part">
+                <h2 class="service-title"></h2>
+                <p class="service-text">«Научные модули» от АИС Сокол — это платформа для разработки и внедрения решений
+                  на базе искусственного интеллекта и машинного обучения. Она охватывает полный цикл работы с данными:
+                  от сбора и предобработки до обучения моделей, развёртывания и мониторинга в продуктивной среде.
+                  Продукт позволяет ускорить создание прогностических и аналитических систем, повысить точность моделей
+                  и снизить время выхода решений на рынок.</p>
+              </div>
+              <div class="part">
+                <div class="two-cols-img ">
+                  <div class="row">
+                    <div class="col-12 col-md-6 mb-3">
+                      <div class="img-col"><img class="img-fluid" src="../../assets/images/services/72.png"
+                          style="height: 300px" loading="lazy" alt="service single image "></div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                      <div class="img-col"><img class="img-fluid" src="../../assets/images/services/73.png"
+                          style="height: 300px" loading="lazy" alt="service single image "></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="service-content-area">
+            <div class="service-content">
+              <div class="part">
+                <h2 class="service-title">Основные возможности и функционал</h2>
+                <p class="service-text">• Сбор и предобработка данных<br />
+                  Автоматизированные ETL конвейеры для очистки, нормализации и аугментации данных.<br />
+                  Поддержка структурированных и неструктурированных источников (CSV, JSON, базы данных,
+                  логи).<br /><br />
+                  • Разработка и обучение моделей<br />
+                  Классификация, регрессия, кластеризация, анализ временных рядов.<br />
+                  Гиперпараметрическая оптимизация (Grid Search, Random Search, Bayesian).<br /><br />
+                  • Управление экспериментами<br />
+                  Трекер экспериментов MLflow: хранение метрик, артефактов и версий моделей.<br />
+                  Сравнение и визуализация результатов разных запусков.<br /><br />
+                  • Развёртывание моделей<br />
+                  Упаковка в Docker контейнеры и развёртывание в Kubernetes.<br />
+                  Автоматическая генерация REST эндпойнтов для онлайн предсказаний.<br /><br />
+                  • Мониторинг и дообучение<br />
+                  Сбор метрик качества (accuracy, precision, recall, RMSE и др.) в реальном времени.<br />
+                  Детектирование дрейфта данных и запуск процессов дообучения.
+                </p>
+              </div>
+              <div class="part">
+                <h2 class="service-title">Используемые технологии</h2>
+                <p class="service-text">• Язык: Python<br />
+                  • Научные библиотеки: NumPy, pandas, Scikit learn<br />
+                  • Фреймворки глубокого обучения (по необходимости): TensorFlow, PyTorch<br />
+                  • Управление экспериментами: MLflow, DVC<br />
+                  • Оркестрация рабочих процессов: Apache Airflow, Prefect<br />
+                  • Контейнеризация и оркестрация: Docker, Kubernetes<br />
+                  • Хранилища данных: PostgreSQL, MongoDB, HDFS, S3<br />
+                  • Визуализация и дашборды: Matplotlib, Plotly, Dash
+                </p>
+              </div>
+              <div class="part">
+                <h2 class="service-title">Целевая аудитория и клиентские сегменты</h2>
+                <p class="service-text">• Финансовые институты: кредитный скоринг, прогнозирование рыночных рисков,
+                  алгоритмическая торговля.<br />
+                  • Аналитические центры: макроэкономическое моделирование, маркетинговая аналитика, customer
+                  insights.<br />
+                  • R&D отделы: научные исследования, разработка новых продуктов, сложное моделирование.<br />
+                  • Промышленные предприятия: предиктивное обслуживание оборудования, оптимизация производственных
+                  процессов.
+                </p>
+              </div>
+              <div class="part">
+                <h2 class="service-title">Возможности развития и интеграции</h2>
+                <p class="service-text">• Глубокое обучение и AutoML<br />
+                  Внедрение AutoML модулей для автоматического подбора алгоритмов и гиперпараметров.<br />
+                  Поддержка графовых сетей и рекомендательных систем.<br /><br />
+                  • Edge AI<br />
+                  Компактные модели для развёртывания на IoT устройствах и граничных серверах.<br />
+                  • Облачные платформы<br />
+                  Интеграция с AWS SageMaker, Azure ML, Google AI Platform для облачного обучения и хостинга.<br />
+                  • BI системы и визуализация<br />
+                  Экспорт результатов и метрик в Power BI, Tableau, ElasticSearch для сквозной аналитики.<br />
+                  • Интеграция с корпоративными системами<br />
+                  Коннекторы для ERP/CRM, Data Lake, BI платформ и систем мониторинга.
+                </p>
+              </div>
+              <div class="part">
+                <h2 class="service-title">
+                  Заключение
+                </h2>
+                <p class="service-text">Платформа «Научные модули» от АИС Сокол позволяет компаниям быстро и надёжно
+                  внедрять решения на основе ИИ/ML, повышая точность прогнозов и эффективность бизнес процессов. Гибкая
+                  архитектура, полный набор инструментов и готовые интеграции обеспечивают масштабируемость,
+                  прозрачность и долгосрочное сопровождение моделей в любой инфраструктуре.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--Start service content-->
+        <!-- Start service sidebar-->
+        <div class="col-12 col-xl-4">
+          <div class="service-sidebar ">
+            <div class="sidebar-pane">
+              <h2 class="sidebar-title">Услуги</h2>
+              <ul class="list">
+                <li class="list-item active"><i class="flaticon-photo-camera-vintage font-icon"></i><a
+                    href="./service-single-argoTech.html">ReID‑ система<br /> межкамерного трекинга<i
+                      class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-project font-icon"></i><a
+                    href="./service-single-2.html">Автоматизация<br /> бизнес процессов<i
+                      class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-cube-without-cover-square font-icon"></i><a
+                    href="./service-single-3.html">Архитектурное проектирование <i
+                      class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-auction font-icon"></i><a href="./service-single-4.html">
+                    Биржа краудфандинга B2B<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-web-domain font-icon"></i><a
+                    href="./service-single-5.html">Веб-сайты<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-artificial-intelligence font-icon"></i><a
+                    href="./service-single-6.html">
+                    Интеграция модулей ИИ<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-brain font-icon"></i><a href="./service-single-7.html"> ИИ
+                    системы под ключ<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-eye-scanner font-icon"></i><a href="./service-single-8.html">
+                    Компьютерное зрение<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-book font-icon"></i><a href="./service-single-9.html">Научные
+                    модули<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-domain font-icon"></i><a
+                    href="./service-single-10.html">Облачная платформа<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-visibility-1 font-icon"></i><a
+                    href="./service-single-11.html">Система
+                    видеоконтроля<i class="bi bi-arrow-right icon "></i></a>
+                </li>
+                <li class="list-item "><i class="flaticon-lock font-icon"></i><a href="./service-single-12.html">Система
+                    управления доступом<i class="bi bi-arrow-right icon "></i></a></li>
+                <li class="list-item "><i class="flaticon-virtual-reality font-icon"></i><a
+                    href="./service-single-13.html">Machine Vision<i class="bi bi-arrow-right icon "></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End service sidebar-->
+      </div>
+    </div>
+  </div>
+  <!-- End inner Page hero-->
+  <!-- Start  page-footer Section-->
+  <footer class="page-footer dark-color-footer" id="page-footer">
+    <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg"
+      data-bg-opacity=".25"></div>
+    <div class="container">
+      <div class="row footer-cols">
+        <div class="col-12 col-md-8 col-lg-4  footer-col "><img class="img-fluid footer-logo" loading="lazy"
+            src="assets/images/logo/logo-colored.png" alt="logo">
+          </span>
+          <div class="footer-col-content-wrapper">
+            <p class="footer-text-about-us mt-4 ">
+              Выполняет заказную разработку и комплексное внедрение IT решений для автоматизации бизнес процессов. Мы
+              создаём системы «под ключ», адаптированные под ваши уникальные задачи, и гарантируем стабильную работу в
+              любых условиях.
+
+            </p>
+          </div>
+        </div>
+        <div class="col-12     col-lg-2 footer-col ">
+          <h2 class=" footer-col-title    ">Контактная информация</h2>
+          <div class="footer-col-content-wrapper">
+            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info"
+                href="mailto:example@support.com">info@aissokol.ru</a></div>
+            <!--              <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Ростовская область г.Новочеркасск</span></div>-->
+            <div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+20123456789">+7
+                (908) 198-04-94</a></div>
+            <div class="contact-info-card">
+              <div class="social-icons">
+                <div class="sc-wrapper dir-row sc-size-32">
+                  <ul class="sc-list">
+                    <li class="sc-item " title="Facebook"><a class="sc-link" href="#0" title="social media icon"><i
+                          class="fab fa-facebook-f sc-icon"></i></a></li>
+                    <li class="sc-item " title="youtube"><a class="sc-link" href="#0" title="social media icon"><i
+                          class="fab fa-youtube sc-icon"></i></a></li>
+                    <li class="sc-item " title="instagram"><a class="sc-link" href="#0" title="social media icon"><i
+                          class="fab fa-instagram sc-icon"></i></a></li>
+                    <li class="sc-item " title="X"><a class="sc-link" href="#0" title="social media icon"><i
+                          class="fab fa-x-twitter sc-icon"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 footer-col ">
+          <h2 class=" footer-col-title    ">Заказная разработка</h2>
+          <div class="footer-col-content-wrapper">
+            <ul class="footer-menu">
+              <li class="footer-menu-item "><i class="bi bi-arrow-right icon "></i><a class="about-text"
+                  href="../service/service-single-argoTech.html">
+                  <span class="about-text">ReID‑ система межкамерного трекинга</span> </a>
+              </li>
+              <li class="footer-menu-item "><i class="bi bi-arrow-right icon "></i><a class="about-text"
+                  href="../service/service-single-2.html">
+                  <span class="about-text">Автоматизация бизнес процессов</span>
+                </a>
+              </li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="about-text"
+                  href="../service/service-single-3.html">
+                  <span class="about-text">Архитектурное проектирование</span>
+                </a>
+              </li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="about-text"
+                  href="../service/service-single-5.html">
+                  <span class="about-text">Веб-сайты</span></a>
+              </li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="about-text"
+                  href="../service/service-single-6.html">
+                  <span class="about-text">Интеграция модулей ИИ</span></a>
+              </li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="about-text"
+                  href="../service/service-single-7.html">
+                  <span class="about-text">ИИ системы под ключ</span></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-6 col-lg-2  footer-col ">
+          <h2 class=" footer-col-title    ">Навигация</h2>
+          <div class="footer-col-content-wrapper">
+            <ul class="footer-menu ">
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="../portfolio/portfolio-grid.html">Проекты</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="../aboutUs/about-us.html">Отзывы</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="../aboutUs/about-us.html">О Компании</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="../contactUs/contact-us.html">Вакансии</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="../blog/blog-home-1-col.html">Новости</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="../contactUs/contact-us.html">Контакты</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copyrights ">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-md-6 d-flex justify-content-start">
+            <p class="creadits">
+              &copy; 2025<a class="link" href="#0"> АИС СОКОЛ</a>
+            </p>
+          </div>
+          <div class="col-12 col-md-6 d-flex justify-content-end">
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End  page-footer Section-->
+  <!-- Start loading-screen Component-->
+  <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span
+      class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div>
+  <!-- End loading-screen Component-->
+  <!-- Start back-to-top Button-->
+  <div class="back-to-top" id="back-to-top"><i class="bi bi-arrow-up icon "></i>
+  </div>
+  <!--     JQuery     -->
+  <script src="../../js/vendors/jquery-3.6.1.min.js"></script>
+
+  <!--     bootstrap     -->
+  <script src="../../js/vendors/bootstrap.bundle.min.js"></script>
+
+  <!--     fancybox     -->
+  <script src="../../js/vendors/jquery.fancybox.min.js"></script>
+
+  <!--     swiper     -->
+  <script src="../../js/vendors/swiper-bundle.min.js"></script>
+
+  <!--     wow     -->
+  <script src="../../js/vendors/wow.min.js"></script>
+
+  <!--     main     -->
+  <script src="../../js/main.js"></script>
+</body>
+
+</html>

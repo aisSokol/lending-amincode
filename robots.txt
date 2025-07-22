@@ -1,0 +1,16 @@
+# Общие правила для всех поисковых роботов
+User-agent: *
+# Запрещаем индексацию служебных и временных директорий
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /admin/
+# Запрещаем индексацию URL с параметрами (чтобы избежать дублирования контента)
+Disallow: /*?*
+
+# Разрешаем всё остальное
+Allow: /
+
+# Указываем карту сайта и основной хост
+Sitemap: https://aissokol.ru/sitemap.xml
+Host: aissokol.ru

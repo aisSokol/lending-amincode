@@ -1,0 +1,76 @@
+.mobile-block{
+    height: 400px !important;
+}
+.logo-mobile{
+    max-height: 250px !important;
+    max-width: 250px !important;
+}
+@media screen and (max-width: 1400px) {
+    .logo-mobile{
+        max-height: 150px !important;
+        max-width: 150px !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    .mobile-img-first{
+        width: 500px;
+        height: 500px;
+    }
+    .mobile-img-second{
+        width: 500px;
+        height: 450px;
+    }
+    .mobile-info-items{
+        width: 100% !important;
+    }
+}
+@media screen and (max-width: 480px) {
+    .mobile-img-first{
+        width: 400px;
+        height: 400px;
+    }
+    .mobile-img-second{
+        width: 300px;
+        height: 250px;
+    }
+    .mobile-block{
+        height: 100% !important;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .mobile-img-first{
+        width: 300px;
+        height: 300px;
+    }
+    .mobile-img-second{
+        width: 300px;
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .mobile-img-first{
+        width: 250px;
+        height: 250px;
+    }
+    .mobile-img-second{
+        width: 250px;
+        height: 200px;
+    }
+    .mobile-stats-inner{
+        padding: 20px!important;
+    }
+    .mobile-btn{
+        display: none !important;
+    }
+    .testimonial-content{
+        padding: 0 !important;
+    }
+    .testimonial-text{
+        font-size: 1rem !important;
+    }
+    .mobile-info-items-list-doverie{
+        width: 100%;
+    }
+}

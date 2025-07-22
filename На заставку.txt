@@ -1,0 +1,737 @@
+{
+  "playerVersion": "2.157.2",
+  "date": "2025-06-16T06:17:54.311Z",
+  "clientId": "88c6a7c2-1e67-4233-a2a7-49c5cdfb9090",
+  "playerId": "player_c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+  "containerId": "player_c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+  "url": "https://kinescope.io/qaKGGehEeBNauUGbJ3VvWL",
+  "referrer": "",
+  "iframe": false,
+  "telegram": false,
+  "system": {
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "browser": {
+      "name": "Chrome",
+      "version": "137.0.7151.104",
+      "major": "137"
+    },
+    "cpu": {
+      "architecture": "amd64"
+    },
+    "device": {},
+    "engine": {
+      "name": "Blink",
+      "version": "137.0.7151.104"
+    },
+    "os": {
+      "name": "Windows",
+      "version": "10"
+    },
+    "memory": {
+      "totalJSHeapSize": 28.711,
+      "usedJSHeapSize": 25.295,
+      "jsHeapSizeLimit": 4095.75
+    },
+    "screen": {
+      "width": 1920,
+      "height": 1080,
+      "devicePixelRatio": 2,
+      "colorDepth": 24,
+      "hdr": false
+    },
+    "navigator": {
+      "deviceMemory": 8,
+      "hardwareConcurrency": 12,
+      "maxTouchPoints": 0,
+      "language": "ru",
+      "onLine": true,
+      "connection": {
+        "effectiveType": "4g",
+        "rtt": 100,
+        "downlink": 10,
+        "saveData": false
+      },
+      "userActivation": {
+        "hasBeenActive": true,
+        "isActive": true
+      }
+    }
+  },
+  "mediaCapabilities": {
+    "media": [
+      {
+        "test": "video/mp4; codecs=\"avc1.4D401E\"",
+        "supported": true
+      },
+      {
+        "test": "video/mp4; codecs=\"avc1.4D401F\"",
+        "supported": true
+      },
+      {
+        "test": "video/mp4; codecs=\"avc1.640028\"",
+        "supported": true
+      },
+      {
+        "test": "video/mp4; codecs=\"avc1.64002A\"",
+        "supported": true
+      },
+      {
+        "test": "video/mp4; codecs=\"avc1.640032\"",
+        "supported": true
+      },
+      {
+        "test": "video/mp4; codecs=\"avc1.640033\"",
+        "supported": true
+      },
+      {
+        "test": "video/mp4; codecs=\"avc1.640034\"",
+        "supported": true
+      },
+      {
+        "test": "audio/mp4; codecs=\"mp4a.40.2\"",
+        "supported": true
+      }
+    ],
+    "drm": {
+      "org.w3.clearkey": {
+        "persistentState": false,
+        "encryptionSchemes": [
+          "cenc",
+          "cbcs",
+          "cbcs-1-9"
+        ],
+        "videoRobustnessLevels": [],
+        "audioRobustnessLevels": [],
+        "minHdcpVersions": [
+          "1.0",
+          "1.1",
+          "1.2",
+          "1.3",
+          "1.4",
+          "2.0",
+          "2.1",
+          "2.2",
+          "2.3"
+        ]
+      },
+      "com.widevine.alpha": {
+        "persistentState": false,
+        "encryptionSchemes": [
+          "cenc",
+          "cbcs",
+          "cbcs-1-9"
+        ],
+        "videoRobustnessLevels": [
+          "SW_SECURE_CRYPTO",
+          "SW_SECURE_DECODE"
+        ],
+        "audioRobustnessLevels": [
+          "SW_SECURE_CRYPTO"
+        ],
+        "minHdcpVersions": [
+          "1.0"
+        ]
+      },
+      "com.apple.fps": null
+    }
+  },
+  "state": {
+    "mobileMode": false,
+    "lang": "ru",
+    "fullscreenApiAvailable": true,
+    "pipAvailable": true,
+    "pipEnabled": true,
+    "fullscreen": false,
+    "pip": false,
+    "chromecastAvailable": false,
+    "airplayAvailable": true,
+    "videoId": "c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+    "videoType": "vod",
+    "loadedPoster": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+    "adBreakEnabled": false,
+    "uiDisabled": false,
+    "seekable": true,
+    "volume": {
+      "muted": true,
+      "value": 0.64
+    },
+    "playbackRate": 1,
+    "videoQuality": 1080,
+    "audioTrack": "en",
+    "duration": 10.043,
+    "currentTime": 6.222813,
+    "driver": {
+      "name": "ShakaDriver",
+      "format": "shakadash",
+      "playback": "driver",
+      "loaded": true,
+      "played": true,
+      "actuallyPlayed": true,
+      "seeked": true,
+      "waiting": false,
+      "stalled": false,
+      "playbackFreezed": false,
+      "liveState": {
+        "live": false,
+        "synced": false,
+        "latency": 0,
+        "seekLength": 0,
+        "edgePosition": 0
+      },
+      "debugData": {
+        "responses": [
+          {
+            "requestType": 1,
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": 97206
+          },
+          {
+            "requestType": 1,
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": 51056
+          },
+          {
+            "requestType": 1,
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": 997489
+          }
+        ]
+      }
+    }
+  },
+  "playbackQuality": {
+    "totalVideoFrames": 422,
+    "droppedVideoFrames": 0,
+    "corruptedVideoFrames": 0
+  },
+  "options": {
+    "containerId": "player_c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+    "cssPrefix": "kin-pl",
+    "playerId": "player_c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+    "size": {
+      "width": "100%",
+      "height": "100%"
+    },
+    "behavior": {
+      "preload": "none",
+      "background": true,
+      "screenWakeLock": false,
+      "autoFocus": false,
+      "autoPlay": true,
+      "autoPause": false,
+      "playback": "normal",
+      "crossOrigin": "anonymous",
+      "doNotTrack": false,
+      "endscreen": "replay",
+      "fullscreenFallback": "video",
+      "playToggleable": false,
+      "fullscreenToggleable": false,
+      "holdPointerToSpeedUp": false,
+      "loop": true,
+      "muted": true,
+      "volume": 0.64,
+      "preservesPitch": true,
+      "playlist": {
+        "autoPlayOnSwitch": true
+      },
+      "playsInline": true,
+      "rotateToFullscreen": false,
+      "playToFullscreen": false,
+      "doubleTapToSeek": false,
+      "seekable": true,
+      "waitForPoster": 2000,
+      "preferredAudioTrack": true,
+      "maxAbrQualityBySize": false,
+      "textTrack": {
+        "activate": "default",
+        "variant": "rollup"
+      },
+      "notifications": {
+        "error": true,
+        "warning": true,
+        "success": true,
+        "info": true
+      }
+    },
+    "ui": {
+      "transparent": true,
+      "playbackRates": [],
+      "subtitles": {
+        "fontSize": [
+          50,
+          75,
+          100,
+          125,
+          150,
+          200,
+          300
+        ],
+        "backgroundOpacity": [
+          0,
+          25,
+          50,
+          75,
+          100
+        ]
+      },
+      "maxTitleLength": 140,
+      "videoFit": "cover",
+      "posterFit": "cover",
+      "mode": "default",
+      "controls": false,
+      "title": false,
+      "liveLabel": false,
+      "annotationsButton": false,
+      "controlBar": false,
+      "mainPlayButton": false,
+      "playSoundButton": true,
+      "progressBar": false,
+      "buttonsBar": false,
+      "time": false,
+      "chapterTitle": true,
+      "prevButton": false,
+      "nextButton": false,
+      "playButton": false,
+      "liveButton": true,
+      "playbackRateButton": false,
+      "volumeButton": false,
+      "subtitlesButton": false,
+      "subtitlesSearch": false,
+      "audioTracksButton": false,
+      "playlistButton": false,
+      "autoSwitchButton": false,
+      "attachmentsButton": true,
+      "downloadsButton": true,
+      "chaptersButton": true,
+      "chatButton": "fullscreen",
+      "settingsButton": true,
+      "airplayButton": true,
+      "chromecastButton": true,
+      "pipButton": false,
+      "fullscreenButton": true,
+      "initial": {
+        "spinner": false,
+        "controls": false,
+        "title": false,
+        "controlBar": false,
+        "mainPlayButton": false,
+        "openChaptersMenu": false,
+        "openPlaylistMenu": false,
+        "openChat": false,
+        "displayMode": {
+          "variant": "default"
+        }
+      },
+      "fullscreen": {
+        "title": false
+      },
+      "contextMenu": {
+        "hotkeys": true,
+        "systemLog": true,
+        "about": true,
+        "version": "hidden"
+      }
+    },
+    "settings": {
+      "iframeApi": false,
+      "iframeToIframe": false,
+      "networkStatus": false,
+      "removedDetector": true,
+      "resetLocalStorageOnError": true,
+      "preferManagedMediaSource": false,
+      "googleCastAppId": "29646999",
+      "sourceSelector": {
+        "priority": [
+          "ws",
+          "webrtc",
+          "shakadash",
+          "shaka-dash",
+          "dash",
+          "shakahls",
+          "shaka-hls",
+          "hls",
+          "file",
+          "mp4"
+        ]
+      },
+      "driverSettings": {
+        "dash": {
+          "streaming": {
+            "abr": {
+              "rules": {
+                "insufficientBufferRule": "-pruned-",
+                "switchHistoryRule": "-pruned-",
+                "droppedFramesRule": "-pruned-",
+                "abandonRequestsRule": "-pruned-"
+              }
+            },
+            "liveCatchup": {
+              "enabled": false
+            }
+          }
+        },
+        "shaka": {
+          "manifest": {
+            "continueLoadingWhenPaused": false
+          },
+          "streaming": {
+            "rebufferingGoal": 0.1,
+            "segmentPrefetchLimit": 0,
+            "durationBackoff": 0
+          }
+        },
+        "shakadash": {},
+        "shakahls": {
+          "streaming": {
+            "useNativeHlsForFairPlay": false,
+            "preferNativeHls": false
+          },
+          "drm": {
+            "parseInbandPsshEnabled": true
+          }
+        },
+        "hls": {
+          "continueLoadingWhenPaused": false,
+          "preferManagedMediaSource": false
+        },
+        "ws": {
+          "maxRetries": 10,
+          "idleTimeout": 0,
+          "halfOpenDetection": {
+            "pingTimeout": 8000,
+            "outMessage": "{\"method\":\"pong\"}"
+          },
+          "dvr": {},
+          "abr": false
+        },
+        "webrtc": {
+          "rtc": {
+            "sdpSemantics": "unified-plan",
+            "bundlePolicy": "max-compat"
+          },
+          "ws": {
+            "maxRetries": 10,
+            "idleTimeout": 0,
+            "halfOpenDetection": {
+              "pingTimeout": 8000,
+              "outMessage": "{\"method\":\"pong\"}"
+            }
+          },
+          "dvr": {}
+        }
+      },
+      "metrics": {
+        "interval": 60000,
+        "timestamp": 1750054658,
+        "urlParams": {
+          "referrer": "",
+          "page": "https://kinescope.io/qaKGGehEeBNauUGbJ3VvWL"
+        },
+        "url": "https://player-metrics.kinescope.io/v1/batch",
+        "compressedUrl": "https://player-metrics.kinescope.io/v1/batch/gzip",
+        "logUrl": "https://player-metrics.kinescope.io/v1/logs"
+      },
+      "oldmetrics": {
+        "url": "https://metrics.kinescope.io/player",
+        "errors": {
+          "url": "https://player-errors.kinescope.io/v1/errors"
+        }
+      }
+    },
+    "playlist": [
+      {
+        "uid": "d0f6c394-6cbd-4937-a7af-4f4158add22a",
+        "frameRate": {
+          "360": 30,
+          "480": 30,
+          "720": 30,
+          "1080": 30
+        },
+        "id": "c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+        "meta": {
+          "folderId": "610d63fd-e7d1-48a5-b036-e7777b6f5d58",
+          "projectId": "610d63fd-e7d1-48a5-b036-e7777b6f5d58",
+          "workspaceId": "97e0a821-ad3c-460c-be4e-26c6e4979ab9",
+          "type": "vod",
+          "duration": 10.033
+        },
+        "sources": {
+          "hls": {
+            "segments": "fmp4",
+            "selector": {
+              "params": {
+                "audio": "lang",
+                "quality": "quality"
+              },
+              "qualityMap": {
+                "360": "360p",
+                "480": "480p",
+                "720": "720p",
+                "1080": "1080p"
+              }
+            },
+            "src": "https://kinescope.io/c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4/master.m3u8?expires=1750141058&token="
+          },
+          "shakadash": {
+            "src": "https://kinescope.io/c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4/master.mpd"
+          }
+        },
+        "title": "brain 2",
+        "subtitle": "",
+        "poster": {
+          "src": {
+            "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_sm/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+            "srcset": [
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_xs/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (max-height: 90px), (orientation: portrait) and (max-width: 90px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (max-height: 480px), (orientation: portrait) and (max-width: 320px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (max-height: 960px), (orientation: portrait) and (max-width: 480px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_lg/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (min-height: 960.1px), (orientation: portrait) and (min-width: 480.1px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_xs/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (max-height: 90px), (orientation: portrait) and (max-width: 90px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (max-height: 480px), (orientation: portrait) and (max-width: 320px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (max-height: 960px), (orientation: portrait) and (max-width: 480px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_lg/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (min-height: 960.1px), (orientation: portrait) and (min-width: 480.1px)"
+              }
+            ]
+          },
+          "small": {
+            "src": {
+              "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_sm/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+              "srcset": [
+                "-pruned-",
+                "-pruned-"
+              ]
+            }
+          }
+        },
+        "qualityLabels": {
+          "360": {
+            "label": "360p",
+            "q": 360
+          },
+          "480": {
+            "label": "480p",
+            "q": 480
+          },
+          "720": {
+            "label": "720p",
+            "q": 720
+          },
+          "1080": {
+            "label": "1080p",
+            "q": 1080
+          },
+          "list": [
+            360,
+            480,
+            720,
+            1080
+          ]
+        },
+        "tools": []
+      }
+    ],
+    "theme": {}
+  },
+  "rawOptions": {
+    "playlist": [
+      {
+        "sources": {
+          "hls": {
+            "segments": "fmp4",
+            "selector": {
+              "params": {
+                "audio": "lang",
+                "quality": "quality"
+              },
+              "qualityMap": {
+                "360": "360p",
+                "480": "480p",
+                "720": "720p",
+                "1080": "1080p"
+              }
+            },
+            "src": "https://kinescope.io/c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4/master.m3u8?expires=1750141058&token="
+          },
+          "shakadash": {
+            "src": "https://kinescope.io/c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4/master.mpd"
+          }
+        },
+        "id": "c3b7f42f-43d9-44ba-bba5-0a0b0af66ca4",
+        "title": "brain 2",
+        "subtitle": "",
+        "poster": {
+          "src": {
+            "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_sm/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+            "srcset": [
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_xs/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (max-height: 90px), (orientation: portrait) and (max-width: 90px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (max-height: 480px), (orientation: portrait) and (max-width: 320px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (max-height: 960px), (orientation: portrait) and (max-width: 480px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_lg/478809b4-11a8-4ca0-a045-7e7e817669a2.webp",
+                "media": "(orientation: landscape) and (min-height: 960.1px), (orientation: portrait) and (min-width: 480.1px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_xs/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (max-height: 90px), (orientation: portrait) and (max-width: 90px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (max-height: 480px), (orientation: portrait) and (max-width: 320px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_md/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (max-height: 960px), (orientation: portrait) and (max-width: 480px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-7.kinescopecdn.net/97e0a821-ad3c-460c-be4e-26c6e4979ab9/posters/3165b969-8757-40f3-878c-9b67275c62b3/poster_lg/478809b4-11a8-4ca0-a045-7e7e817669a2.jpg",
+                "media": "(orientation: landscape) and (min-height: 960.1px), (orientation: portrait) and (min-width: 480.1px)"
+              }
+            ]
+          }
+        },
+        "qualityLabels": {
+          "360": {
+            "label": "360p",
+            "q": 360
+          },
+          "480": {
+            "label": "480p",
+            "q": 480
+          },
+          "720": {
+            "label": "720p",
+            "q": 720
+          },
+          "1080": {
+            "label": "1080p",
+            "q": 1080
+          }
+        },
+        "frameRate": {
+          "360": 30,
+          "480": 30,
+          "720": 30,
+          "1080": 30
+        },
+        "meta": {
+          "folderId": "610d63fd-e7d1-48a5-b036-e7777b6f5d58",
+          "projectId": "610d63fd-e7d1-48a5-b036-e7777b6f5d58",
+          "workspaceId": "97e0a821-ad3c-460c-be4e-26c6e4979ab9",
+          "type": "vod",
+          "duration": 10.033
+        }
+      }
+    ],
+    "behaviour": {
+      "localStorage": false,
+      "endscreen": "replay",
+      "preload": false,
+      "textTrack": false,
+      "keyboard": false,
+      "autoPlay": false,
+      "background": true,
+      "volume": 0.64
+    },
+    "size": {
+      "width": "100%",
+      "height": "100%"
+    },
+    "ui": {
+      "playbackRateButton": false,
+      "title": false,
+      "mainPlayButton": false,
+      "progressBar": false,
+      "buttonsBar": false,
+      "chromecastButton": true,
+      "airplayButton": true,
+      "playButton": false,
+      "volumeButton": false,
+      "audioTracksButton": false,
+      "autoSwitchButton": false,
+      "pipButton": false,
+      "time": false,
+      "initial": {
+        "controlBar": false,
+        "title": false
+      },
+      "playbackRates": false,
+      "annotationsButton": true,
+      "subtitlesSearch": false,
+      "subtitlesButton": false,
+      "playlistButton": false,
+      "prevButton": false,
+      "nextButton": false,
+      "videoFit": "cover"
+    },
+    "theme": {},
+    "settings": {
+      "metrics": {
+        "url": "https://player-metrics.kinescope.io/v1/batch",
+        "compressedUrl": "https://player-metrics.kinescope.io/v1/batch/gzip",
+        "interval": 60000,
+        "timestamp": 1750054658,
+        "logUrl": "https://player-metrics.kinescope.io/v1/logs"
+      },
+      "oldmetrics": {
+        "url": "https://metrics.kinescope.io/player",
+        "errors": {
+          "url": "https://player-errors.kinescope.io/v1/errors"
+        }
+      },
+      "preferManagedMediaSource": false,
+      "driverSettings": {}
+    }
+  },
+  "errors": []
+}

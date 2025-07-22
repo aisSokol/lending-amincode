@@ -1,0 +1,524 @@
+Uri: https://amincode.com/html/flex-it/404.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\404.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/about-us.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\about-us.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/assets/images/about/1.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\about\1.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/about/2.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\about\2.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/about/photo-1.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\about\photo-1.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/about/photo-2.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\about\photo-2.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/about/signature-dark.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\about\signature-dark.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/about/signature-light.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\about\signature-light.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/avatars/1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\avatars\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/avatars/2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\avatars\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/avatars/3.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\avatars\3.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/avatars/4.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\avatars\4.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/3.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/4.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\4.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/5.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\5.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/6.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\6.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/featured-img.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\featured-img.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/post-images/post-img.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\post-images\post-img.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/recent-posts/1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\recent-posts\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/recent-posts/2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\recent-posts\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/recent-posts/3.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\recent-posts\3.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/blog/recent-posts/4.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\blog\recent-posts\4.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/1-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\1-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/2-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\2-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/3-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\3-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/4-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\4-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/5-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\5-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/6-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\6-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/clients-logos/7-white.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\clients-logos\7-white.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/fav-icon/fav-icon.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\fav-icon\fav-icon.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/hero/illustration-1.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\hero\illustration-1.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/hero/illustration-2.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\hero\illustration-2.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/hero/illustration-3.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\hero\illustration-3.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/hero/illustration-4.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\hero\illustration-4.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/logo/logo-colored.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\logo\logo-colored.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/logo/logo-dark.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\logo\logo-dark.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/logo/logo-light.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\logo\logo-light.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/3.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/4.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/5.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/6.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/7.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\7.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/8.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\8.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/cert-1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\cert-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/our-team/cert-2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\our-team\cert-2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/3.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/4.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/5.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/6.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/featured-image.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\featured-image.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/portfolio/seal.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\portfolio\seal.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/services/service-single-featured-img.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\services\service-single-featured-img.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/services/service-single-img-col-1.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\services\service-single-img-col-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/services/service-single-img-col-2.jpg
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\services\service-single-img-col-2.jpg
+Content Type: image/jpeg
+
+Uri: https://amincode.com/html/flex-it/assets/images/testimonials/1.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\testimonials\1.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/testimonials/2.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\testimonials\2.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/images/testimonials/3.png
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\images\testimonials\3.png
+Content Type: image/png
+
+Uri: https://amincode.com/html/flex-it/assets/videos/section-bg-video-1.mp4
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\assets\videos\section-bg-video-1.mp4
+Content Type: video/mp4
+
+Uri: https://amincode.com/html/flex-it/blog-home-1-col.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\blog-home-1-col.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/blog-home-2-col.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\blog-home-2-col.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/blog-home-3-col.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\blog-home-3-col.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/contact-us.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\contact-us.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/css/main-LTR.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\main-LTR.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/main-RTL.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\main-RTL.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/all.min.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\all.min.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/animate.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\animate.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/bootstrap-icons-1.9.1/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\bootstrap-icons-1.9.1\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/bootstrap-icons-1.9.1/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\bootstrap-icons-1.9.1\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://amincode.com/html/flex-it/css/vendors/bootstrap-icons-1.9.1/fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\bootstrap-icons-1.9.1\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: https://amincode.com/html/flex-it/css/vendors/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/flaticon/flaticon.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/flaticon/flaticon.eot?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\flaticon\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://amincode.com/html/flex-it/css/vendors/flaticon/flaticon.svg?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\flaticon\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://amincode.com/html/flex-it/css/vendors/flaticon/flaticon.ttf?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\flaticon\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://amincode.com/html/flex-it/css/vendors/flaticon/flaticon.woff2?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\flaticon\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://amincode.com/html/flex-it/css/vendors/flaticon/flaticon.woff?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\flaticon\flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://amincode.com/html/flex-it/css/vendors/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/vendors/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\vendors\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://amincode.com/html/flex-it/css/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\css\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://amincode.com/html/flex-it/faq.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\faq.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/home-2.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\home-2.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/home-3.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\home-3.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/home-4.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\home-4.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/home-5.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\home-5.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/home-6.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\home-6.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/home-rtl.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\home-rtl.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/js/main.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/appear.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\appear.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/isotope-min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\isotope-min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/jquery-3.6.1.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\jquery-3.6.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/jquery.countTo.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\jquery.countTo.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\jquery.fancybox.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/particles.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\particles.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/vanilla-tilt.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\vanilla-tilt.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/js/vendors/wow.min.js
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\js\vendors\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://amincode.com/html/flex-it/our-team.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\our-team.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/portfolio-grid.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\portfolio-grid.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/portfolio-single.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\portfolio-single.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/portfolio-slider.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\portfolio-slider.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/post-single.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\post-single.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/pricing.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\pricing.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/service-single.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\service-single.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/services.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\services.html
+Content Type: text/html
+
+Uri: https://amincode.com/html/flex-it/team-member.html
+File Name: C:\Downloaded Web Sites\amincode.com\html\flex-it\team-member.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\amincode.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\amincode.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v10/Iura6YBj_oCad4k1rzY.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\tajawal\v10\Iura6YBj_oCad4k1rzY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l4qkLrY.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\tajawal\v10\Iurf6YBj_oCad4k1l4qkLrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l5anLrY.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\tajawal\v10\Iurf6YBj_oCad4k1l5anLrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l7KmLrY.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\tajawal\v10\Iurf6YBj_oCad4k1l7KmLrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l8KiLrY.ttf
+File Name: C:\Downloaded Web Sites\amincode.com\s\tajawal\v10\Iurf6YBj_oCad4k1l8KiLrY.ttf
+Content Type: font/ttf
+
